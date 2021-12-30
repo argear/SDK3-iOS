@@ -6,31 +6,31 @@
 	<dict>
 		<key>Frameworks/libARGearSDKContent.dylib</key>
 		<data>
-		Or0fpj9hYSJtLb1tl2KE9KK5DnY=
+		JpHMjS7kcN0T1Wx/Mt15iBQkM6w=
 		</data>
 		<key>Frameworks/libARGearSDKHuman.dylib</key>
 		<data>
-		qRppp0h0wsNTKtaQNF0T/KMxquQ=
+		cBP7tRK2xbLftscmMlcKVI25Tbo=
 		</data>
 		<key>Frameworks/libARGearSDKLogger.dylib</key>
 		<data>
-		zLqAex0sZyMda7NiFdY4jITBW38=
+		VOAt94vmj6+JrsCTG2Z29qrscpQ=
 		</data>
 		<key>Frameworks/libARGearSDKMLCore.dylib</key>
 		<data>
-		E2Uu/9rHN9hevIt81Efp+M4n7nE=
+		oKJ5FPz9rMVmxPzQHlf3JwUp4PQ=
 		</data>
 		<key>Frameworks/libARGearSDKNetwork.dylib</key>
 		<data>
-		SrBcdGsy/8r5AUVSj1rHSDpgZJ0=
+		27q8RB0SVfr181fWBOTK8GVPJjo=
 		</data>
 		<key>Frameworks/libARGearSDKRenderer.dylib</key>
 		<data>
-		dHbcZ6uvhnKnpTrJu17P+GFZlsI=
+		hA8MuAjjW2B6yZk/rv4fVuX0Orw=
 		</data>
 		<key>Frameworks/libARGearSDKUtil.dylib</key>
 		<data>
-		lkAkBpCNHqyxdWFe2bYSaoaZkbA=
+		ZjKusR/ZkJi003nwIt60vMcjRp4=
 		</data>
 		<key>Headers/ARGContentInfo.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		o7bHOkRGpkEuDhHyrMK/8y6J3/0=
+		/WYKyqvbCAT8wLqtuQNMnryjakk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,49 +83,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C2toqtkNe1JjtXXAyJo9mHxl7Itor61n7SZd3QkYmNA=
+			vC9CfIwu0wzPFP4t2rXN5TK3yq/ylJiLZdjJ4hyO9Fw=
 			</data>
 		</dict>
 		<key>Frameworks/libARGearSDKHuman.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b8M6YT4OUi3EYd+AYwWUtALEJdMiDbA0K6w0BvdkWJk=
+			wBWoRp0oy3q7ElTn++dbNbBNKSWS64Kd2l84DMRQACU=
 			</data>
 		</dict>
 		<key>Frameworks/libARGearSDKLogger.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1lUIQKgmfrVIGkG9WzatIvmmM9S4tIYzrPGMqjHKLIM=
+			fcGi2ohoFfvMN81ENH4OCJLSC5MePSapfPQgw91akOM=
 			</data>
 		</dict>
 		<key>Frameworks/libARGearSDKMLCore.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMNOnviIZQTnaR2v/6RIKdDs9TKHDxSSKg1YQFECyZs=
+			e7urRfk4anKlrf1wVGnBZu7TO/HXt4CjxqVELOpjo6I=
 			</data>
 		</dict>
 		<key>Frameworks/libARGearSDKNetwork.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SrV509bfP1ZF2+smHwWpKRrUAJn3ORZpdlQUJLR5fl8=
+			afvUy4CRxsPUASltmB2F2IuPwgn+6ySmOqEcdazsYWw=
 			</data>
 		</dict>
 		<key>Frameworks/libARGearSDKRenderer.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			skqj2XOIo/hiFDhvxEzN7/jhJmY6r/YD46DV18Rp55o=
+			aWHxc1Pvqbw6SeaWaNmt1IhHYyd+zA2TuaELDF7yDFI=
 			</data>
 		</dict>
 		<key>Frameworks/libARGearSDKUtil.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fp9mN7Mms+uzFgceLjz05RgJq4dMyrSoQ+AxYZrEzSQ=
+			BbjFVA0YoAuGGsNHiBa0Ajbz6cLYTQ3MIrJHJ6JjCyU=
 			</data>
 		</dict>
 		<key>Headers/ARGContentInfo.h</key>
